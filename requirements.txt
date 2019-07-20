@@ -10,4 +10,4 @@ PySocks==1.6.8
 request==1.0.2
 requests==2.21.0
 requests-oauthlib==1.2.0
-textblob==0.15.1
+textblob==0.15.3
